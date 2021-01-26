@@ -1,0 +1,19 @@
+html {
+    text-align: center;
+    background-color: #96C8A2;
+    font-family: monospace;
+    font-size: large;
+}
+h1 {
+    padding-top: 2em;
+}
+h4 {
+    padding-bottom: 2em;
+}
+section {
+    padding-bottom: 2em;
+}
+footer {
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
